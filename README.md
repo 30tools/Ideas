@@ -4,6 +4,7 @@ A centralized repository to manage and track all project ideas for [30tools.com]
 
 ## 📋 Table of Contents
 - [About](#about)
+- [Quick Start](#quick-start)
 - [How to Add a New Idea](#how-to-add-a-new-idea)
 - [Idea Status](#idea-status)
 - [Current Ideas](#current-ideas)
@@ -12,6 +13,10 @@ A centralized repository to manage and track all project ideas for [30tools.com]
 ## About
 
 This repository serves as an idea hub for potential tools and projects to be built for 30tools.com. Each idea is documented with a structured format to help evaluate, prioritize, and track development.
+
+## Quick Start
+
+New to this repository? Check out the [QUICKSTART.md](QUICKSTART.md) guide for step-by-step instructions on adding your first idea.
 
 ## How to Add a New Idea
 
